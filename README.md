@@ -48,6 +48,9 @@ I will solder the 2 strips together to create 1 continuous strip that is 2 meter
 <img width="741" height="535" alt="Screenshot 2026-11-04 213828" src="https://github.com/user-attachments/assets/4c3ebcf8-cf8f-4210-8a4b-40fbdb5d1f1d" />
 <img width="965" height="544" alt="Screenshot 2026-11-04 213742" src="https://github.com/user-attachments/assets/828b6333-1854-4e15-9e12-1f3ef19036c3" />
 
+link to wiring diagram: https://app.cirkitdesigner.com/project/52533e8e-914a-4dc4-a7a6-d1fc5723d3a9
+
+
 
 ## Software
 
