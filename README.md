@@ -53,6 +53,8 @@ I will solder the 2 strips together to create 1 continuous strip that is 2 meter
 
 The project uses WLED running on the ESP32.
 
+[https://www.install.wled.me](https://install.wled.me/)
+
 Planned setup:
 
 1. Flash WLED to the ESP32
