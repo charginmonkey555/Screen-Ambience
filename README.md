@@ -50,6 +50,11 @@ I will solder the 2 strips together to create 1 continuous strip that is 2 meter
 
 link to wiring diagram: https://app.cirkitdesigner.com/project/52533e8e-914a-4dc4-a7a6-d1fc5723d3a9
 
+## 3D Models
+
+In hope to prevent any damage to the strip at the bends of the corners at the monitor, I designed a simple corner piece that allows the strip to go around a 90 degree corner without bending too much. I used TINKERCAD because the model was extremely simple, and hopefully these corner pieces extend the longevity of the strip.
+
+<img width="562" height="479" alt="Screenshot 2026-11-04 225854" src="https://github.com/user-attachments/assets/ea5a42d9-cf10-47fd-8dfc-f5e7addf70cd" />
 
 
 ## Software
